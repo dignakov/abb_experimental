@@ -1,2 +1,2 @@
-- git: {local-name: abb, uri: 'https://github.com/ros-industrial/abb.git', version: kinetic-devel}
+- git: {local-name: abb, uri: 'https://github.com/dignakov/abb.git', version: ros2-foxy}
 
