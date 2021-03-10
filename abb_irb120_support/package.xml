@@ -4,7 +4,7 @@
   <name>abb_irb120_support</name>
   <version>0.1.0</version>
   <description>
-	<p> ROS2 version </p>
+	<p> ROS2 version of the ROS-Industrial support pacage for ABB IRB 120 </p>
     <p>
       ROS-Industrial support for the ABB IRB 120 (and variants).
     </p>
